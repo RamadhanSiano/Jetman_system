@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Theme\js\.DS_Store" />
+    <None Include="wwwroot\Theme\scss\.DS_Store" />
+    <None Include="wwwroot\Theme\scss\components\.DS_Store" />
+    <None Include="wwwroot\Theme\scss\mixins\.DS_Store" />
+    <None Include="wwwroot\Theme\css\style.css" />
+    <None Include="wwwroot\Theme\js\chart.js" />
+    <None Include="wwwroot\Theme\js\dashboard.js" />
+    <None Include="wwwroot\Theme\js\documentation.js" />
+    <None Include="wwwroot\Theme\js\file-upload.js" />
+    <None Include="wwwroot\Theme\js\hoverable-collapse.js" />
+    <None Include="wwwroot\Theme\js\jquery.cookie.js" />
+    <None Include="wwwroot\Theme\js\off-canvas.js" />
+    <None Include="wwwroot\Theme\js\tabs.js" />
+    <None Include="wwwroot\Theme\js\template.js" />
+    <None Include="wwwroot\Theme\js\todolist.js" />
+    <None Include="wwwroot\Theme\js\tooltips.js" />
+    <None Include="wwwroot\Theme\scss\components\_badges.scss" />
+    <None Include="wwwroot\Theme\scss\components\_bootstrap-progress.scss" />
+    <None Include="wwwroot\Theme\scss\components\_buttons.scss" />
+    <None Include="wwwroot\Theme\scss\components\_cards.scss" />
+    <None Include="wwwroot\Theme\scss\components\_checkbox-radio.scss" />
+    <None Include="wwwroot\Theme\scss\components\_dropdown.scss" />
+    <None Include="wwwroot\Theme\scss\components\_forms.scss" />
+    <None Include="wwwroot\Theme\scss\components\_icons.scss" />
+    <None Include="wwwroot\Theme\scss\components\_lists.scss" />
+    <None Include="wwwroot\Theme\scss\components\_tables.scss" />
+    <None Include="wwwroot\Theme\scss\components\_todo-list.scss" />
+    <None Include="wwwroot\Theme\scss\landing-screens\_auth.scss" />
+    <None Include="wwwroot\Theme\scss\mixins\_animation.scss" />
+    <None Include="wwwroot\Theme\scss\mixins\_badges.scss" />
+    <None Include="wwwroot\Theme\scss\mixins\_blockqoute.scss" />
+    <None Include="wwwroot\Theme\scss\mixins\_buttons.scss" />
+    <None Include="wwwroot\Theme\scss\mixins\_cards.scss" />
+    <None Include="wwwroot\Theme\scss\mixins\_misc.scss" />
+    <None Include="wwwroot\Theme\scss\style.scss" />
+    <None Include="wwwroot\Theme\scss\_background.scss" />
+    <None Include="wwwroot\Theme\scss\_demo.scss" />
+    <None Include="wwwroot\Theme\scss\_fonts.scss" />
+    <None Include="wwwroot\Theme\scss\_footer.scss" />
+    <None Include="wwwroot\Theme\scss\_functions.scss" />
+    <None Include="wwwroot\Theme\scss\_layouts.scss" />
+    <None Include="wwwroot\Theme\scss\_misc.scss" />
+    <None Include="wwwroot\Theme\scss\_navbar.scss" />
+    <None Include="wwwroot\Theme\scss\_reset.scss" />
+    <None Include="wwwroot\Theme\scss\_sidebar.scss" />
+    <None Include="wwwroot\Theme\scss\_typography.scss" />
+    <None Include="wwwroot\Theme\scss\_utilities.scss" />
+    <None Include="wwwroot\Theme\scss\_variables.scss" />
+    <None Include="wwwroot\Theme\scss\_vertical-wrapper.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
