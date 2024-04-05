@@ -1,11 +1,22 @@
+using Jetmanthings.Controllers;
 using Jetmanthings.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using System;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+// Add ASP.NET Core Identity services
+builder.Services.AddIdentity<UserModel, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
+// Register AccountController for dependency injection
+builder.Services.AddScoped<AccountController>();
 
 /*
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -31,6 +42,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=RegisterAdmin}/{id?}");
 
 app.Run();

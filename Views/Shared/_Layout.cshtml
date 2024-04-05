@@ -19,6 +19,51 @@
     <!-- Custom styles for this template-->
     <link href="~/Theme/css/style.css" rel="stylesheet">
 
+    <style>
+        /* Sidebar */
+        .sidebar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 250px; /* Adjust width as needed */
+            z-index: 1000; /* Ensure sidebar is above other content */
+            overflow-x: hidden;
+            overflow-y: auto; /* Enable vertical scrolling if needed */
+            background-color: #333; /* Sidebar background color */
+            color: #fff; /* Sidebar text color */
+            padding-top: 10px; /* Match the height of the header */
+        }
+
+        /* Content Wrapper */
+        #content-wrapper {
+            margin-left: 250px; /* Adjust according to sidebar width */
+            z-index: 0; /* Ensure content is below sidebar */
+        }
+
+        /* Top Navigation Bar */
+        .topbar {
+            position: fixed;
+            top: 0;
+            width: 80%;
+            z-index: 1000; /* Ensure topbar is above other content */
+            background-color: #fff; /* Topbar background color */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for a subtle effect */
+        }
+
+        /* Adjust content padding to account for fixed header and sidebar */
+        .container-fluid {
+            padding-top: 86px; /* Match the height of the header */
+            padding-left: 0; /* Add some padding to the left */
+            padding-right: 0; /* Add some padding to the right */
+        }
+
+        /* Optional: Style for the main content */
+        .card {
+            margin-bottom: 30px; /* Add space between cards */
+        }
+    </style>
+
 </head>
 
 <body id="page-top">
@@ -169,7 +214,7 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="index.html">
                                 <i class="fas fa-fw fa-tachometer-alt"></i>
-                                <span>Dashboard</span>
+                                <span>Home</span>
                             </a>
                         </li>
 
@@ -379,13 +424,13 @@
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
                                                 Car Sales (Monthly)
                                             </div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
                                         </div>
                                         <div class="col-auto">
-                                            <i class="fas fa-calendar fa-2x text-gray-300"></i>
+                                            <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
                                         </div>
                                     </div>
                                 </div>
@@ -417,7 +462,7 @@
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">
+                                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
                                                 Tasks
                                             </div>
                                             <div class="row no-gutters align-items-center">
@@ -447,7 +492,7 @@
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
                                                 Pending Requests
                                             </div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">18</div>

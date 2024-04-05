@@ -7,16 +7,76 @@
       "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\register\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\register\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\wwwroot\\theme\\vendor\\fontawesome-free\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:wwwroot\\theme\\vendor\\fontawesome-free\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\login\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\login\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\account\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\account\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\account\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\account\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\migrations\\20240404141311_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:migrations\\20240404141311_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\jetmanthings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:jetmanthings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\models\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:models\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\wwwroot\\theme\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -27,59 +87,15 @@
       "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\models\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:models\\registeradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\jetmanthings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:jetmanthings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\home\\adminlandingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\home\\adminlandingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\wwwroot\\theme\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:wwwroot\\theme\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\siano\\source\\repos\\Jetmanthings\\Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|c:\\users\\user\\jetman_system\\migrations\\20240321114959_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED64517-05C1-48E7-B999-F402A91D6077}|Jetmanthings.csproj|solutionrelative:migrations\\20240321114959_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,45 +105,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\css\\style.css",
-              "RelativeDocumentMoniker": "wwwroot\\Theme\\css\\style.css",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\css\\style.css",
-              "RelativeToolTip": "wwwroot\\Theme\\css\\style.css",
-              "ViewState": "AQIAAOkqAAAAAAAAAAAAAPsqAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "all.min.css",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\vendor\\fontawesome-free\\css\\all.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\Theme\\vendor\\fontawesome-free\\css\\all.min.css",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\vendor\\fontawesome-free\\css\\all.min.css",
+              "RelativeToolTip": "wwwroot\\Theme\\vendor\\fontawesome-free\\css\\all.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-31T13:25:33.617Z",
+              "WhenOpened": "2024-04-05T11:52:24.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "Controllers\\RegisterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T13:01:51.452Z",
+              "Title": "LoginAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Account\\LoginAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\LoginAdmin.cshtml",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Account\\LoginAdmin.cshtml",
+              "RelativeToolTip": "Views\\Account\\LoginAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T09:22:14.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:17:52.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:15:17.727Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Login\\LoginAdmin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\LoginAdmin.cshtml",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Login\\LoginAdmin.cshtml",
-              "RelativeToolTip": "Views\\Login\\LoginAdmin.cshtml",
-              "ViewState": "AQIAABgAAACAy8zMzMwnwEcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T12:57:27.373Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T06:46:37.469Z",
               "EditorCaption": ""
             },
             {
@@ -138,124 +178,134 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABQAAAA",
+              "ViewState": "AQIAAKMBAAAAAACi9+wlwKoBAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-16T19:44:17.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RegisterAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Register\\RegisterAdmin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Register\\RegisterAdmin.cshtml",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Register\\RegisterAdmin.cshtml",
-              "RelativeToolTip": "Views\\Register\\RegisterAdmin.cshtml",
-              "ViewState": "AQIAAEAAAACAMjMzMzMnwE8AAAAWAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Account\\RegisterAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\RegisterAdmin.cshtml",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Account\\RegisterAdmin.cshtml",
+              "RelativeToolTip": "Views\\Account\\RegisterAdmin.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAADEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T13:05:03.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T07:04:26.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LogInLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Shared\\_LogInLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LogInLayout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Shared\\_LogInLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LogInLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T08:43:31.663Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "20240404141311_changes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Migrations\\20240404141311_changes.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240404141311_changes.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Migrations\\20240404141311_changes.cs",
+              "RelativeToolTip": "Migrations\\20240404141311_changes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:13:11.391Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAIAAADgmJmZmZkuwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:46:47.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Jetmanthings.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Jetmanthings.csproj",
-              "RelativeDocumentMoniker": "Jetmanthings.csproj",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Jetmanthings.csproj",
-              "RelativeToolTip": "Jetmanthings.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-22T05:22:16.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Adminlandingpage.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Adminlandingpage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Adminlandingpage.cshtml",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Adminlandingpage.cshtml",
-              "RelativeToolTip": "Views\\Home\\Adminlandingpage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T14:16:57.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAABAMzMzMzP7vwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T14:16:25.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20240321114959_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Migrations\\20240321114959_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240321114959_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Migrations\\20240321114959_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20240321114959_InitialCreate.cs",
-              "ViewState": "AQIAAAoAAAAAmZmZmZkuwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T11:51:12.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\User\\Jetman_system\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T07:36:10.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-21T06:46:37.469Z"
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T07:08:25.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:10:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:05:35.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:00:49.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:35:04.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:49:06.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:28:37.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -267,31 +317,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
+              "Title": "Jetmanthings.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Jetmanthings.csproj",
+              "RelativeDocumentMoniker": "Jetmanthings.csproj",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Jetmanthings.csproj",
+              "RelativeToolTip": "Jetmanthings.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T05:22:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "RegisterAdmin.cs",
               "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Models\\RegisterAdmin.cs",
               "RelativeDocumentMoniker": "Models\\RegisterAdmin.cs",
               "ToolTip": "C:\\Users\\User\\Jetman_system\\Models\\RegisterAdmin.cs",
               "RelativeToolTip": "Models\\RegisterAdmin.cs",
-              "ViewState": "AQIAAAAAAAAAMzMzMzMLwAEAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T06:38:18.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T06:10:23.108Z"
+              "DocumentIndex": 19,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\Theme\\css\\style.css",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\Theme\\css\\style.css",
+              "ViewState": "AQIAAOYqAAAAAAAAAIBJwPsqAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-31T13:25:33.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
+              "Title": "_LogInLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Shared\\_LogInLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LogInLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Shared\\_LogInLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LogInLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T08:43:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAABAMzMzMzP7vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T14:16:25.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\Users\\siano\\source\\repos\\Jetmanthings\\Models\\Class.cs",
               "RelativeDocumentMoniker": "..\\..\\siano\\source\\repos\\Jetmanthings\\Models\\Class.cs",
@@ -302,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "sb-admin-2.css",
               "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\wwwroot\\Theme\\css\\sb-admin-2.css",
               "RelativeDocumentMoniker": "wwwroot\\Theme\\css\\sb-admin-2.css",
@@ -311,30 +397,6 @@
               "ViewState": "AQIAAFgAAAAAAAAAAAAmwGcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-19T22:06:25.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T21:17:52.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Jetman_system\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T07:08:25.835Z"
             }
           ]
         }
